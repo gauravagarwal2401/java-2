@@ -1,4 +1,4 @@
-name: Build
+name: sonar-analysis-new
 
 on:
   push:
